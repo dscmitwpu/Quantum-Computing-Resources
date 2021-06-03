@@ -1,3 +1,6 @@
+# Resources For Quantum Computing 
+
+
 ## Physics
 
 First, no knowledge of physics is required. In fact, mostly as a personal challenge, I will teach this subject without any physics. Of course, you’ll end up learning a lot of the mechanical aspects and abstractions of physical models, but we won’t mention things like atoms and energy.
