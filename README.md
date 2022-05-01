@@ -1,4 +1,4 @@
-# Resources For Quantum Computing 
+# <a href="https://dscmitwpu.github.io/Quantum-Computing-Resources/">Resources For Quantum Computing</a> 
 
 
 ## Physics
